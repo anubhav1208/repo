@@ -1,1 +1,8 @@
+streamlit
 python-dotenv
+PyPDF2
+langchain
+langchain_community
+langchain-openai
+htmlTemplates  # Only if it's a separate package you've developed
+
