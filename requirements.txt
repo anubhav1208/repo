@@ -5,5 +5,4 @@ langchain
 langchain_community
 langchain-openai
 sentence-transformers ==2.2.2
-torch
 InstructorEmbedding
