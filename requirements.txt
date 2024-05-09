@@ -4,4 +4,5 @@ PyPDF2
 langchain
 langchain_community
 langchain-openai
-
+transformers
+torch
