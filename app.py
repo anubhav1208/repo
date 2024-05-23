@@ -12,9 +12,9 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain_community.chat_models import ChatOpenAI
 from htmlTemplates import css, bot_template, user_template
 from langchain_community.llms import HuggingFaceHub
-from langchain_google_genai import GoogleGenerativeAIEmbeddings
-import google.generativeai as genai
-from langchain_google_genai import ChatGoogleGenerativeAI
+#from langchain_google_genai import GoogleGenerativeAIEmbeddings
+#import google.generativeai as genai
+#from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
 #from dotenv import load_dotenv
