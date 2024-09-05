@@ -1,3 +1,4 @@
+--upgrade pip
 streamlit==1.23.0
 python-dotenv
 PyPDF2==3.0.0
