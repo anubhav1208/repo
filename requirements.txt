@@ -6,3 +6,6 @@ langchain_community
 langchain-openai
 sentence-transformers ==2.2.2
 InstructorEmbedding
+pandas==1.5.3
+spacy==3.5.0
+openpyxl==3.0.10
