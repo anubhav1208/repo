@@ -1,5 +1,5 @@
 streamlit==1.23.0
-pydantic==1.10.7
+pydantic==1.7.5
 python-dotenv
 PyPDF2==3.0.0
 pandas==1.5.3
